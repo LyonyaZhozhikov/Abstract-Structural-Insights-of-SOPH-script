@@ -1,0 +1,3577 @@
+Mutation: A_873_W
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.28
+SideHbond       =               -630.82
+Energy_VdW      =               -2475.32
+Electro         =               -61.45
+Energy_SolvP    =               3305.03
+Energy_SolvH    =               -3271.78
+Energy_vdwclash =               63.92
+energy_torsion  =               41.14
+backbone_vdwclash=              1796.09
+Entropy_sidec   =               1406.14
+Entropy_mainc   =               3534.58
+water bonds     =               0.00
+helix dipole    =               -96.14
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.50
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.01
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:09:04 2023
+Total time spend: 10.71 seconds.
+Mutation: A_877_V
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.26
+SideHbond       =               -631.91
+Energy_VdW      =               -2475.40
+Electro         =               -61.87
+Energy_SolvP    =               3306.18
+Energy_SolvH    =               -3271.07
+Energy_vdwclash =               64.73
+energy_torsion  =               41.94
+backbone_vdwclash=              1796.29
+Entropy_sidec   =               1407.80
+Entropy_mainc   =               3536.41
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.04
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:09:43 2023
+Total time spend: 11.75 seconds.
+Mutation: A_857_V
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.99
+SideHbond       =               -631.59
+Energy_VdW      =               -2476.06
+Electro         =               -61.89
+Energy_SolvP    =               3306.98
+Energy_SolvH    =               -3272.26
+Energy_vdwclash =               66.25
+energy_torsion  =               41.10
+backbone_vdwclash=              1797.11
+Entropy_sidec   =               1407.69
+Entropy_mainc   =               3534.11
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.83
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:10:23 2023
+Total time spend: 12.32 seconds.
+Mutation: A_1053_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.64
+SideHbond       =               -630.39
+Energy_VdW      =               -2474.55
+Electro         =               -62.06
+Energy_SolvP    =               3305.41
+Energy_SolvH    =               -3269.70
+Energy_vdwclash =               62.95
+energy_torsion  =               41.25
+backbone_vdwclash=              1796.47
+Entropy_sidec   =               1407.43
+Entropy_mainc   =               3533.92
+water bonds     =               0.00
+helix dipole    =               -96.93
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.41
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.60
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:11:10 2023
+Total time spend: 11.07 seconds.
+Mutation: A_1121_M
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.91
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.30
+Electro         =               -61.87
+Energy_SolvP    =               3305.78
+Energy_SolvH    =               -3270.68
+Energy_vdwclash =               63.02
+energy_torsion  =               41.20
+backbone_vdwclash=              1796.41
+Entropy_sidec   =               1407.60
+Entropy_mainc   =               3534.04
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.78
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:11:46 2023
+Total time spend: 10.94 seconds.
+Mutation: A_1055_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.60
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.14
+Electro         =               -61.87
+Energy_SolvP    =               3305.05
+Energy_SolvH    =               -3269.20
+Energy_vdwclash =               67.05
+energy_torsion  =               41.11
+backbone_vdwclash=              1795.01
+Entropy_sidec   =               1406.58
+Entropy_mainc   =               3535.55
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  208.41
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:12:25 2023
+Total time spend: 10.78 seconds.
+Mutation: A_256_Y
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.37
+SideHbond       =               -631.01
+Energy_VdW      =               -2476.43
+Electro         =               -61.87
+Energy_SolvP    =               3307.79
+Energy_SolvH    =               -3272.37
+Energy_vdwclash =               72.51
+energy_torsion  =               41.15
+backbone_vdwclash=              1796.50
+Entropy_sidec   =               1406.84
+Entropy_mainc   =               3534.74
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.52
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  210.48
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:13:08 2023
+Total time spend: 10.83 seconds.
+Mutation: A_2280_T
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.76
+Electro         =               -61.87
+Energy_SolvP    =               3305.62
+Energy_SolvH    =               -3270.10
+Energy_vdwclash =               62.97
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.18
+Entropy_mainc   =               3533.97
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.11
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:13:43 2023
+Total time spend: 11.15 seconds.
+Mutation: A_409_V
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.24
+SideHbond       =               -631.67
+Energy_VdW      =               -2475.86
+Electro         =               -61.88
+Energy_SolvP    =               3306.64
+Energy_SolvH    =               -3271.72
+Energy_vdwclash =               65.90
+energy_torsion  =               42.07
+backbone_vdwclash=              1796.41
+Entropy_sidec   =               1407.69
+Entropy_mainc   =               3533.95
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.37
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:14:20 2023
+Total time spend: 10.80 seconds.
+Mutation: A_1097_M
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.60
+SideHbond       =               -630.73
+Energy_VdW      =               -2475.54
+Electro         =               -61.87
+Energy_SolvP    =               3306.02
+Energy_SolvH    =               -3271.27
+Energy_vdwclash =               63.16
+energy_torsion  =               41.83
+backbone_vdwclash=              1796.49
+Entropy_sidec   =               1407.17
+Entropy_mainc   =               3534.08
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.71
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:15:02 2023
+Total time spend: 10.94 seconds.
+Mutation: A_650_S
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.91
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.35
+Electro         =               -61.87
+Energy_SolvP    =               3305.55
+Energy_SolvH    =               -3269.23
+Energy_vdwclash =               62.96
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.24
+Entropy_sidec   =               1406.92
+Entropy_mainc   =               3534.85
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.94
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:15:40 2023
+Total time spend: 11.02 seconds.
+Mutation: A_271_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.56
+SideHbond       =               -631.58
+Energy_VdW      =               -2473.69
+Electro         =               -61.87
+Energy_SolvP    =               3305.38
+Energy_SolvH    =               -3267.87
+Energy_vdwclash =               67.87
+energy_torsion  =               41.19
+backbone_vdwclash=              1795.45
+Entropy_sidec   =               1406.38
+Entropy_mainc   =               3533.98
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.50
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  209.70
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:16:15 2023
+Total time spend: 10.77 seconds.
+Mutation: A_396_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.83
+SideHbond       =               -631.58
+Energy_VdW      =               -2473.22
+Electro         =               -62.24
+Energy_SolvP    =               3305.18
+Energy_SolvH    =               -3267.22
+Energy_vdwclash =               62.92
+energy_torsion  =               41.21
+backbone_vdwclash=              1796.07
+Entropy_sidec   =               1407.35
+Entropy_mainc   =               3533.75
+water bonds     =               0.00
+helix dipole    =               -96.50
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.83
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:16:50 2023
+Total time spend: 10.63 seconds.
+Mutation: A_568_I
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.02
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.31
+Electro         =               -61.87
+Energy_SolvP    =               3306.09
+Energy_SolvH    =               -3271.07
+Energy_vdwclash =               62.99
+energy_torsion  =               41.21
+backbone_vdwclash=              1796.62
+Entropy_sidec   =               1407.57
+Entropy_mainc   =               3533.95
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.45
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:17:24 2023
+Total time spend: 10.79 seconds.
+Mutation: A_254_D
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.68
+SideHbond       =               -632.17
+Energy_VdW      =               -2476.10
+Electro         =               -61.87
+Energy_SolvP    =               3310.71
+Energy_SolvH    =               -3271.43
+Energy_vdwclash =               70.97
+energy_torsion  =               44.83
+backbone_vdwclash=              1796.56
+Entropy_sidec   =               1407.76
+Entropy_mainc   =               3533.75
+water bonds     =               0.00
+helix dipole    =               -96.53
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  214.23
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:18:08 2023
+Total time spend: 11.13 seconds.
+Mutation: A_517_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.07
+SideHbond       =               -630.85
+Energy_VdW      =               -2475.01
+Electro         =               -62.06
+Energy_SolvP    =               3307.06
+Energy_SolvH    =               -3270.32
+Energy_vdwclash =               63.82
+energy_torsion  =               41.17
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1405.33
+Entropy_mainc   =               3534.29
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             10.06
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.41
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:18:50 2023
+Total time spend: 11.48 seconds.
+Mutation: A_517_C
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.75
+SideHbond       =               -631.01
+Energy_VdW      =               -2473.90
+Electro         =               -59.86
+Energy_SolvP    =               3303.81
+Energy_SolvH    =               -3269.19
+Energy_vdwclash =               62.95
+energy_torsion  =               41.12
+backbone_vdwclash=              1796.30
+Entropy_sidec   =               1405.27
+Entropy_mainc   =               3534.34
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.25
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:19:30 2023
+Total time spend: 10.77 seconds.
+Mutation: A_1914_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.83
+SideHbond       =               -628.69
+Energy_VdW      =               -2474.16
+Electro         =               -60.27
+Energy_SolvP    =               3305.21
+Energy_SolvH    =               -3269.87
+Energy_vdwclash =               69.13
+energy_torsion  =               41.27
+backbone_vdwclash=              1796.40
+Entropy_sidec   =               1406.19
+Entropy_mainc   =               3534.25
+water bonds     =               0.00
+helix dipole    =               -96.35
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.66
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  213.04
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:20:20 2023
+Total time spend: 10.96 seconds.
+Mutation: A_1_L
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.52
+Electro         =               -61.87
+Energy_SolvP    =               3305.36
+Energy_SolvH    =               -3269.73
+Energy_vdwclash =               62.97
+energy_torsion  =               41.12
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.11
+Entropy_mainc   =               3533.92
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.32
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:20:54 2023
+Total time spend: 10.70 seconds.
+Mutation: A_292_E
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.86
+Electro         =               -61.81
+Energy_SolvP    =               3305.83
+Energy_SolvH    =               -3270.18
+Energy_vdwclash =               62.97
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.17
+Entropy_mainc   =               3533.74
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.96
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:21:29 2023
+Total time spend: 10.84 seconds.
+Mutation: A_1474_L
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.93
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.82
+Electro         =               -61.87
+Energy_SolvP    =               3306.42
+Energy_SolvH    =               -3270.01
+Energy_vdwclash =               62.99
+energy_torsion  =               41.14
+backbone_vdwclash=              1797.39
+Entropy_sidec   =               1407.38
+Entropy_mainc   =               3535.32
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.51
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:22:08 2023
+Total time spend: 10.88 seconds.
+Mutation: A_984_S
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.17
+SideHbond       =               -631.74
+Energy_VdW      =               -2473.36
+Electro         =               -61.87
+Energy_SolvP    =               3305.57
+Energy_SolvH    =               -3266.90
+Energy_vdwclash =               62.94
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.17
+Entropy_sidec   =               1406.26
+Entropy_mainc   =               3533.87
+water bonds     =               0.00
+helix dipole    =               -96.61
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.10
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:22:48 2023
+Total time spend: 10.74 seconds.
+Mutation: A_414_F
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.60
+SideHbond       =               -629.52
+Energy_VdW      =               -2476.31
+Electro         =               -62.44
+Energy_SolvP    =               3306.67
+Energy_SolvH    =               -3273.19
+Energy_vdwclash =               63.24
+energy_torsion  =               41.08
+backbone_vdwclash=              1796.68
+Entropy_sidec   =               1407.78
+Entropy_mainc   =               3533.28
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  199.47
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:23:29 2023
+Total time spend: 10.91 seconds.
+Mutation: A_842_F
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.73
+Electro         =               -61.83
+Energy_SolvP    =               3306.10
+Energy_SolvH    =               -3271.27
+Energy_vdwclash =               75.16
+energy_torsion  =               41.09
+backbone_vdwclash=              1796.21
+Entropy_sidec   =               1407.32
+Entropy_mainc   =               3534.33
+water bonds     =               0.00
+helix dipole    =               -96.50
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  212.12
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:24:06 2023
+Total time spend: 10.88 seconds.
+Mutation: A_447_K
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.25
+SideHbond       =               -630.56
+Energy_VdW      =               -2475.42
+Electro         =               -62.17
+Energy_SolvP    =               3306.26
+Energy_SolvH    =               -3271.15
+Energy_vdwclash =               63.03
+energy_torsion  =               41.05
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1406.94
+Entropy_mainc   =               3533.17
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.37
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:24:46 2023
+Total time spend: 10.67 seconds.
+Mutation: A_422_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.30
+SideHbond       =               -631.97
+Energy_VdW      =               -2473.44
+Electro         =               -61.84
+Energy_SolvP    =               3304.22
+Energy_SolvH    =               -3267.70
+Energy_vdwclash =               63.57
+energy_torsion  =               41.13
+backbone_vdwclash=              1793.88
+Entropy_sidec   =               1406.44
+Entropy_mainc   =               3533.88
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.47
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:25:21 2023
+Total time spend: 10.73 seconds.
+Mutation: A_64_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.68
+SideHbond       =               -632.22
+Energy_VdW      =               -2475.16
+Electro         =               -61.92
+Energy_SolvP    =               3306.23
+Energy_SolvH    =               -3270.55
+Energy_vdwclash =               62.98
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.55
+Entropy_sidec   =               1407.84
+Entropy_mainc   =               3534.24
+water bonds     =               0.00
+helix dipole    =               -96.37
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.57
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.59
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:26:07 2023
+Total time spend: 11.00 seconds.
+Mutation: A_2287_Y
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.92
+SideHbond       =               -631.36
+Energy_VdW      =               -2475.05
+Electro         =               -62.66
+Energy_SolvP    =               3304.76
+Energy_SolvH    =               -3270.79
+Energy_vdwclash =               63.01
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.17
+Entropy_sidec   =               1408.40
+Entropy_mainc   =               3533.90
+water bonds     =               0.00
+helix dipole    =               -93.70
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.23
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.45
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:26:56 2023
+Total time spend: 10.98 seconds.
+Mutation: A_1129_F
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.34
+SideHbond       =               -630.04
+Energy_VdW      =               -2475.47
+Electro         =               -61.85
+Energy_SolvP    =               3305.95
+Energy_SolvH    =               -3271.68
+Energy_vdwclash =               61.66
+energy_torsion  =               41.18
+backbone_vdwclash=              1796.51
+Entropy_sidec   =               1407.32
+Entropy_mainc   =               3534.45
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.68
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:27:31 2023
+Total time spend: 10.83 seconds.
+Mutation: A_777_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.97
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.87
+Electro         =               -61.88
+Energy_SolvP    =               3308.58
+Energy_SolvH    =               -3270.37
+Energy_vdwclash =               62.81
+energy_torsion  =               41.94
+backbone_vdwclash=              1796.16
+Entropy_sidec   =               1407.76
+Entropy_mainc   =               3535.44
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.63
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.49
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:28:17 2023
+Total time spend: 10.65 seconds.
+Mutation: A_1921_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.68
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.29
+Electro         =               -61.80
+Energy_SolvP    =               3305.37
+Energy_SolvH    =               -3271.44
+Energy_vdwclash =               68.83
+energy_torsion  =               41.14
+backbone_vdwclash=              1793.56
+Entropy_sidec   =               1407.45
+Entropy_mainc   =               3533.54
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  206.02
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:29:01 2023
+Total time spend: 11.02 seconds.
+Mutation: A_941_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.60
+SideHbond       =               -630.81
+Energy_VdW      =               -2473.58
+Electro         =               -61.81
+Energy_SolvP    =               3303.82
+Energy_SolvH    =               -3269.20
+Energy_vdwclash =               62.98
+energy_torsion  =               41.13
+backbone_vdwclash=              1795.92
+Entropy_sidec   =               1406.32
+Entropy_mainc   =               3534.24
+water bonds     =               0.00
+helix dipole    =               -96.47
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.75
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.26
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:30:07 2023
+Total time spend: 13.59 seconds.
+Mutation: A_804_G
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.00
+SideHbond       =               -630.74
+Energy_VdW      =               -2473.70
+Electro         =               -61.67
+Energy_SolvP    =               3303.06
+Energy_SolvH    =               -3268.77
+Energy_vdwclash =               63.06
+energy_torsion  =               41.12
+backbone_vdwclash=              1795.63
+Entropy_sidec   =               1405.78
+Entropy_mainc   =               3533.85
+water bonds     =               0.00
+helix dipole    =               -94.30
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.69
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:30:48 2023
+Total time spend: 11.71 seconds.
+Mutation: A_340_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1630.12
+SideHbond       =               -631.43
+Energy_VdW      =               -2475.74
+Electro         =               -61.91
+Energy_SolvP    =               3306.32
+Energy_SolvH    =               -3271.48
+Energy_vdwclash =               69.25
+energy_torsion  =               41.97
+backbone_vdwclash=              1796.75
+Entropy_sidec   =               1407.52
+Entropy_mainc   =               3535.69
+water bonds     =               0.00
+helix dipole    =               -96.59
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  207.46
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:32:03 2023
+Total time spend: 17.57 seconds.
+Mutation: A_903_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.43
+SideHbond       =               -632.47
+Energy_VdW      =               -2474.99
+Electro         =               -64.12
+Energy_SolvP    =               3308.11
+Energy_SolvH    =               -3268.52
+Energy_vdwclash =               62.99
+energy_torsion  =               41.28
+backbone_vdwclash=              1796.51
+Entropy_sidec   =               1408.73
+Entropy_mainc   =               3534.10
+water bonds     =               0.00
+helix dipole    =               -96.17
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.48
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:33:05 2023
+Total time spend: 13.14 seconds.
+Mutation: A_151_K
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.90
+SideHbond       =               -629.42
+Energy_VdW      =               -2475.05
+Electro         =               -60.98
+Energy_SolvP    =               3305.31
+Energy_SolvH    =               -3271.04
+Energy_vdwclash =               62.92
+energy_torsion  =               41.03
+backbone_vdwclash=              1796.47
+Entropy_sidec   =               1407.20
+Entropy_mainc   =               3534.17
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.72
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:33:55 2023
+Total time spend: 11.19 seconds.
+Mutation: A_1549_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.59
+SideHbond       =               -631.59
+Energy_VdW      =               -2474.18
+Electro         =               -61.87
+Energy_SolvP    =               3305.01
+Energy_SolvH    =               -3269.19
+Energy_vdwclash =               68.24
+energy_torsion  =               41.13
+backbone_vdwclash=              1794.08
+Entropy_sidec   =               1406.59
+Entropy_mainc   =               3532.25
+water bonds     =               0.00
+helix dipole    =               -96.43
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  206.36
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:34:32 2023
+Total time spend: 12.02 seconds.
+Mutation: A_1521_Q
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.70
+Electro         =               -61.88
+Energy_SolvP    =               3305.59
+Energy_SolvH    =               -3270.00
+Energy_vdwclash =               62.97
+energy_torsion  =               41.10
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.13
+Entropy_mainc   =               3534.05
+water bonds     =               0.00
+helix dipole    =               -96.62
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.10
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:35:09 2023
+Total time spend: 11.55 seconds.
+Mutation: A_1743_V
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.97
+SideHbond       =               -631.58
+Energy_VdW      =               -2473.81
+Electro         =               -61.82
+Energy_SolvP    =               3305.58
+Energy_SolvH    =               -3268.59
+Energy_vdwclash =               64.57
+energy_torsion  =               41.32
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1406.32
+Entropy_mainc   =               3533.90
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.39
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:35:53 2023
+Total time spend: 10.87 seconds.
+Mutation: A_2232_E
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.28
+SideHbond       =               -631.66
+Energy_VdW      =               -2474.23
+Electro         =               -61.97
+Energy_SolvP    =               3305.70
+Energy_SolvH    =               -3269.56
+Energy_vdwclash =               62.96
+energy_torsion  =               41.12
+backbone_vdwclash=              1796.03
+Entropy_sidec   =               1406.78
+Entropy_mainc   =               3534.11
+water bonds     =               0.00
+helix dipole    =               -96.48
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.49
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:36:33 2023
+Total time spend: 10.98 seconds.
+Mutation: A_1178_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.23
+SideHbond       =               -631.61
+Energy_VdW      =               -2477.37
+Electro         =               -62.81
+Energy_SolvP    =               3309.72
+Energy_SolvH    =               -3272.87
+Energy_vdwclash =               70.73
+energy_torsion  =               41.75
+backbone_vdwclash=              1797.12
+Entropy_sidec   =               1409.00
+Entropy_mainc   =               3534.91
+water bonds     =               0.00
+helix dipole    =               -96.54
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  209.66
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:37:40 2023
+Total time spend: 10.83 seconds.
+Mutation: A_1073_C
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.93
+SideHbond       =               -630.73
+Energy_VdW      =               -2474.41
+Electro         =               -61.25
+Energy_SolvP    =               3304.85
+Energy_SolvH    =               -3269.63
+Energy_vdwclash =               62.97
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.22
+Entropy_sidec   =               1406.40
+Entropy_mainc   =               3534.77
+water bonds     =               0.00
+helix dipole    =               -96.68
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.47
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:38:19 2023
+Total time spend: 10.75 seconds.
+Mutation: A_1914_C
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.88
+SideHbond       =               -628.86
+Energy_VdW      =               -2472.73
+Electro         =               -60.20
+Energy_SolvP    =               3301.91
+Energy_SolvH    =               -3268.43
+Energy_vdwclash =               62.96
+energy_torsion  =               41.02
+backbone_vdwclash=              1795.89
+Entropy_sidec   =               1406.08
+Entropy_mainc   =               3534.30
+water bonds     =               0.00
+helix dipole    =               -96.37
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.79
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:39:04 2023
+Total time spend: 10.80 seconds.
+Mutation: A_227_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -630.05
+Energy_VdW      =               -2473.87
+Electro         =               -62.27
+Energy_SolvP    =               3304.07
+Energy_SolvH    =               -3269.49
+Energy_vdwclash =               66.09
+energy_torsion  =               41.12
+backbone_vdwclash=              1795.25
+Entropy_sidec   =               1406.35
+Entropy_mainc   =               3534.52
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.38
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.89
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:39:48 2023
+Total time spend: 10.80 seconds.
+Mutation: A_892_F
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.86
+SideHbond       =               -631.47
+Energy_VdW      =               -2475.46
+Electro         =               -61.49
+Energy_SolvP    =               3306.23
+Energy_SolvH    =               -3270.81
+Energy_vdwclash =               63.47
+energy_torsion  =               41.39
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.60
+Entropy_mainc   =               3534.67
+water bonds     =               0.00
+helix dipole    =               -96.52
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.73
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:40:32 2023
+Total time spend: 10.94 seconds.
+Mutation: A_1495_H
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.31
+SideHbond       =               -630.96
+Energy_VdW      =               -2473.80
+Electro         =               -61.94
+Energy_SolvP    =               3304.32
+Energy_SolvH    =               -3269.13
+Energy_vdwclash =               62.97
+energy_torsion  =               41.07
+backbone_vdwclash=              1795.91
+Entropy_sidec   =               1406.62
+Entropy_mainc   =               3533.69
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.54
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.04
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:41:19 2023
+Total time spend: 10.96 seconds.
+Mutation: A_747_D
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.98
+SideHbond       =               -629.34
+Energy_VdW      =               -2473.50
+Electro         =               -63.39
+Energy_SolvP    =               3307.33
+Energy_SolvH    =               -3267.78
+Energy_vdwclash =               62.90
+energy_torsion  =               41.13
+backbone_vdwclash=              1795.98
+Entropy_sidec   =               1405.22
+Entropy_mainc   =               3532.64
+water bonds     =               0.00
+helix dipole    =               -96.11
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.68
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.28
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:42:06 2023
+Total time spend: 11.39 seconds.
+Mutation: A_671_C
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.12
+SideHbond       =               -631.77
+Energy_VdW      =               -2473.44
+Electro         =               -61.87
+Energy_SolvP    =               3305.05
+Energy_SolvH    =               -3267.66
+Energy_vdwclash =               62.95
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.16
+Entropy_sidec   =               1406.83
+Entropy_mainc   =               3533.70
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.27
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:42:41 2023
+Total time spend: 10.67 seconds.
+Mutation: A_1914_G
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.70
+SideHbond       =               -628.77
+Energy_VdW      =               -2471.63
+Electro         =               -60.20
+Energy_SolvP    =               3301.12
+Energy_SolvH    =               -3266.91
+Energy_vdwclash =               62.92
+energy_torsion  =               41.02
+backbone_vdwclash=              1795.64
+Entropy_sidec   =               1405.22
+Entropy_mainc   =               3534.07
+water bonds     =               0.00
+helix dipole    =               -96.37
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  206.76
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:43:26 2023
+Total time spend: 10.91 seconds.
+Mutation: A_343_N
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.76
+SideHbond       =               -630.76
+Energy_VdW      =               -2475.30
+Electro         =               -62.66
+Energy_SolvP    =               3307.95
+Energy_SolvH    =               -3270.66
+Energy_vdwclash =               63.98
+energy_torsion  =               41.03
+backbone_vdwclash=              1796.37
+Entropy_sidec   =               1406.88
+Entropy_mainc   =               3534.36
+water bonds     =               0.00
+helix dipole    =               -96.47
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             10.02
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.11
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:44:07 2023
+Total time spend: 10.88 seconds.
+Mutation: A_454_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.70
+Electro         =               -61.89
+Energy_SolvP    =               3305.71
+Energy_SolvH    =               -3270.01
+Energy_vdwclash =               62.97
+energy_torsion  =               41.20
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1407.24
+Entropy_mainc   =               3534.82
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  202.28
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:44:45 2023
+Total time spend: 11.05 seconds.
+Mutation: A_937_A
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.76
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.15
+Electro         =               -61.86
+Energy_SolvP    =               3305.54
+Energy_SolvH    =               -3269.02
+Energy_vdwclash =               62.96
+energy_torsion  =               41.13
+backbone_vdwclash=              1797.43
+Entropy_sidec   =               1406.84
+Entropy_mainc   =               3535.12
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.50
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.70
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:45:20 2023
+Total time spend: 10.82 seconds.
+Mutation: A_2335_W
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.18
+SideHbond       =               -629.10
+Energy_VdW      =               -2474.79
+Electro         =               -61.00
+Energy_SolvP    =               3303.84
+Energy_SolvH    =               -3270.99
+Energy_vdwclash =               63.05
+energy_torsion  =               41.34
+backbone_vdwclash=              1796.45
+Entropy_sidec   =               1405.51
+Entropy_mainc   =               3534.26
+water bonds     =               0.00
+helix dipole    =               -96.58
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.34
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:46:05 2023
+Total time spend: 11.07 seconds.
+Mutation: A_1707_I
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.12
+SideHbond       =               -630.55
+Energy_VdW      =               -2474.22
+Electro         =               -61.87
+Energy_SolvP    =               3305.53
+Energy_SolvH    =               -3269.60
+Energy_vdwclash =               62.15
+energy_torsion  =               41.23
+backbone_vdwclash=              1796.19
+Entropy_sidec   =               1407.02
+Entropy_mainc   =               3533.68
+water bonds     =               0.00
+helix dipole    =               -96.48
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.75
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:46:43 2023
+Total time spend: 10.80 seconds.
+Mutation: A_136_G
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.59
+SideHbond       =               -629.93
+Energy_VdW      =               -2471.28
+Electro         =               -60.08
+Energy_SolvP    =               3300.30
+Energy_SolvH    =               -3266.76
+Energy_vdwclash =               62.66
+energy_torsion  =               41.01
+backbone_vdwclash=              1795.69
+Entropy_sidec   =               1405.37
+Entropy_mainc   =               3533.58
+water bonds     =               0.00
+helix dipole    =               -96.48
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.78
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:47:25 2023
+Total time spend: 10.76 seconds.
+Mutation: A_803_K
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.30
+SideHbond       =               -629.87
+Energy_VdW      =               -2474.62
+Electro         =               -59.88
+Energy_SolvP    =               3303.87
+Energy_SolvH    =               -3270.22
+Energy_vdwclash =               63.96
+energy_torsion  =               41.46
+backbone_vdwclash=              1796.39
+Entropy_sidec   =               1406.93
+Entropy_mainc   =               3533.34
+water bonds     =               0.00
+helix dipole    =               -96.58
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.08
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:48:47 2023
+Total time spend: 11.14 seconds.
+Mutation: A_95_V
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.47
+SideHbond       =               -631.04
+Energy_VdW      =               -2475.19
+Electro         =               -61.87
+Energy_SolvP    =               3305.54
+Energy_SolvH    =               -3271.54
+Energy_vdwclash =               67.61
+energy_torsion  =               41.15
+backbone_vdwclash=              1796.29
+Entropy_sidec   =               1407.00
+Entropy_mainc   =               3534.45
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.12
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:49:22 2023
+Total time spend: 10.80 seconds.
+Mutation: A_348_S
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.93
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.58
+Electro         =               -61.87
+Energy_SolvP    =               3306.06
+Energy_SolvH    =               -3269.41
+Energy_vdwclash =               62.79
+energy_torsion  =               43.54
+backbone_vdwclash=              1797.05
+Entropy_sidec   =               1407.12
+Entropy_mainc   =               3534.08
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.03
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.22
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:49:57 2023
+Total time spend: 10.93 seconds.
+Mutation: A_1199_Y
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.51
+SideHbond       =               -632.16
+Energy_VdW      =               -2476.38
+Electro         =               -61.74
+Energy_SolvP    =               3307.14
+Energy_SolvH    =               -3272.53
+Energy_vdwclash =               72.01
+energy_torsion  =               41.14
+backbone_vdwclash=              1796.63
+Entropy_sidec   =               1407.04
+Entropy_mainc   =               3534.04
+water bonds     =               0.00
+helix dipole    =               -96.52
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  206.53
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:50:36 2023
+Total time spend: 10.84 seconds.
+Mutation: A_940_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.34
+SideHbond       =               -631.11
+Energy_VdW      =               -2474.81
+Electro         =               -61.87
+Energy_SolvP    =               3304.80
+Energy_SolvH    =               -3270.69
+Energy_vdwclash =               67.28
+energy_torsion  =               41.13
+backbone_vdwclash=              1793.56
+Entropy_sidec   =               1406.57
+Entropy_mainc   =               3532.34
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.44
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.73
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:51:15 2023
+Total time spend: 10.61 seconds.
+Mutation: A_1708_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.00
+SideHbond       =               -631.60
+Energy_VdW      =               -2473.33
+Electro         =               -61.82
+Energy_SolvP    =               3304.27
+Energy_SolvH    =               -3267.81
+Energy_vdwclash =               68.14
+energy_torsion  =               41.13
+backbone_vdwclash=              1793.45
+Entropy_sidec   =               1406.38
+Entropy_mainc   =               3532.66
+water bonds     =               0.00
+helix dipole    =               -96.52
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  207.48
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:51:53 2023
+Total time spend: 10.94 seconds.
+Mutation: A_426_W
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.34
+SideHbond       =               -632.01
+Energy_VdW      =               -2477.12
+Electro         =               -62.03
+Energy_SolvP    =               3308.95
+Energy_SolvH    =               -3273.25
+Energy_vdwclash =               64.35
+energy_torsion  =               41.89
+backbone_vdwclash=              1796.40
+Entropy_sidec   =               1407.81
+Entropy_mainc   =               3534.69
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.43
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:52:29 2023
+Total time spend: 10.83 seconds.
+Mutation: A_103_T
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.03
+SideHbond       =               -631.58
+Energy_VdW      =               -2475.64
+Electro         =               -61.92
+Energy_SolvP    =               3307.19
+Energy_SolvH    =               -3271.08
+Energy_vdwclash =               62.98
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.28
+Entropy_sidec   =               1407.75
+Entropy_mainc   =               3533.18
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.46
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:53:04 2023
+Total time spend: 11.10 seconds.
+Mutation: A_1517_E
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.94
+SideHbond       =               -631.58
+Energy_VdW      =               -2474.59
+Electro         =               -61.98
+Energy_SolvP    =               3305.52
+Energy_SolvH    =               -3269.77
+Energy_vdwclash =               62.96
+energy_torsion  =               41.14
+backbone_vdwclash=              1796.21
+Entropy_sidec   =               1407.15
+Entropy_mainc   =               3533.82
+water bonds     =               0.00
+helix dipole    =               -96.09
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  201.64
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:53:58 2023
+Total time spend: 10.83 seconds.
+Mutation: A_731_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.63
+SideHbond       =               -631.61
+Energy_VdW      =               -2474.99
+Electro         =               -61.87
+Energy_SolvP    =               3304.93
+Energy_SolvH    =               -3270.99
+Energy_vdwclash =               67.94
+energy_torsion  =               41.08
+backbone_vdwclash=              1793.62
+Entropy_sidec   =               1407.23
+Entropy_mainc   =               3532.60
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  204.18
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:54:37 2023
+Total time spend: 10.88 seconds.
+Mutation: A_2269_K
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.79
+SideHbond       =               -631.41
+Energy_VdW      =               -2475.11
+Electro         =               -61.97
+Energy_SolvP    =               3305.01
+Energy_SolvH    =               -3270.72
+Energy_vdwclash =               63.01
+energy_torsion  =               41.11
+backbone_vdwclash=              1796.44
+Entropy_sidec   =               1407.57
+Entropy_mainc   =               3533.99
+water bonds     =               0.00
+helix dipole    =               -95.99
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.22
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.40
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:55:40 2023
+Total time spend: 10.80 seconds.
+Mutation: A_134_R
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.55
+SideHbond       =               -633.49
+Energy_VdW      =               -2475.13
+Electro         =               -61.83
+Energy_SolvP    =               3306.54
+Energy_SolvH    =               -3270.35
+Energy_vdwclash =               62.66
+energy_torsion  =               41.26
+backbone_vdwclash=              1796.44
+Entropy_sidec   =               1407.96
+Entropy_mainc   =               3533.87
+water bonds     =               0.00
+helix dipole    =               -96.70
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  200.22
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:56:24 2023
+Total time spend: 10.78 seconds.
+Mutation: A_845_C
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1629.72
+SideHbond       =               -631.10
+Energy_VdW      =               -2472.12
+Electro         =               -61.84
+Energy_SolvP    =               3304.11
+Energy_SolvH    =               -3265.68
+Energy_vdwclash =               62.92
+energy_torsion  =               41.10
+backbone_vdwclash=              1795.86
+Entropy_sidec   =               1406.89
+Entropy_mainc   =               3534.04
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  206.10
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:57:01 2023
+Total time spend: 10.88 seconds.
+Mutation: A_519_E
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.93
+SideHbond       =               -632.18
+Energy_VdW      =               -2475.22
+Electro         =               -61.36
+Energy_SolvP    =               3307.89
+Energy_SolvH    =               -3270.00
+Energy_vdwclash =               62.97
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.24
+Entropy_sidec   =               1407.65
+Entropy_mainc   =               3534.42
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.84
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:57:38 2023
+Total time spend: 10.88 seconds.
+Mutation: A_137_W
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.30
+SideHbond       =               -630.95
+Energy_VdW      =               -2475.12
+Electro         =               -61.87
+Energy_SolvP    =               3306.36
+Energy_SolvH    =               -3270.63
+Energy_vdwclash =               64.07
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.34
+Entropy_sidec   =               1406.70
+Entropy_mainc   =               3534.48
+water bonds     =               0.00
+helix dipole    =               -96.44
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  203.42
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:58:17 2023
+Total time spend: 10.88 seconds.
+Mutation: A_1918_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1627.07
+SideHbond       =               -631.00
+Energy_VdW      =               -2474.51
+Electro         =               -61.87
+Energy_SolvP    =               3304.34
+Energy_SolvH    =               -3270.41
+Energy_vdwclash =               67.64
+energy_torsion  =               41.13
+backbone_vdwclash=              1793.60
+Entropy_sidec   =               1406.84
+Entropy_mainc   =               3532.59
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  205.16
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:58:52 2023
+Total time spend: 10.92 seconds.
+Mutation: A_1201_P
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.65
+SideHbond       =               -631.29
+Energy_VdW      =               -2474.70
+Electro         =               -61.87
+Energy_SolvP    =               3304.60
+Energy_SolvH    =               -3270.52
+Energy_vdwclash =               71.71
+energy_torsion  =               41.13
+backbone_vdwclash=              1793.82
+Entropy_sidec   =               1406.75
+Entropy_mainc   =               3534.24
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  208.87
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 12:59:30 2023
+Total time spend: 10.72 seconds.
+Mutation: A_253_G
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Stability >>>
+
+1 models read: NBAS_wt_Repair_1.pdb
+
+BackHbond       =               -1628.56
+SideHbond       =               -631.37
+Energy_VdW      =               -2472.80
+Electro         =               -61.87
+Energy_SolvP    =               3304.79
+Energy_SolvH    =               -3266.41
+Energy_vdwclash =               62.82
+energy_torsion  =               41.13
+backbone_vdwclash=              1796.27
+Entropy_sidec   =               1406.76
+Entropy_mainc   =               3535.15
+water bonds     =               0.00
+helix dipole    =               -96.51
+loop_entropy    =               0.00
+cis_bond        =               4.50
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             9.49
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  207.12
+
+FINISHING STABILITY ANALYSIS OPTION
+
+Your file run OK
+End time of FoldX: Wed May  3 13:00:06 2023
+Total time spend: 11.37 seconds.
