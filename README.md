@@ -1,4 +1,10 @@
-#  Abstract "Dissecting NBAS Protein Function using AlphaFold - Structural Insights of Rare Short Stature, Optic Nerve Atrophy, and Pelger-Huet Anomaly (SOPH) Syndrome" script
+<div id="header" align="center">
+  
+  ####  This is the repository of an abstract: 
+  
+  # Dissecting NBAS Protein Function using AlphaFold - Structural Insights of SOPH Syndrome
+ 
+</div>
 
 ## ESM fold API for multiple mutagenesis
 
