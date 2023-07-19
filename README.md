@@ -26,7 +26,7 @@ In mutagenesis mode, the script additionally prompts the user to enter a substit
 ### Notes
 
 command to calculate RMSD in pymol:
-###### align NBAS_1914_13-26-17 and resi 1-200, NBAS_1914_H_13-26-17_mutated and resi 1-200
+###### align NBAS_1914 and resi 1-200, NBAS_1914_H_mutated and resi 1-200
 
 Not sensitive to positions +- 200 aa from N and C terminal of the protein sequences.
 
