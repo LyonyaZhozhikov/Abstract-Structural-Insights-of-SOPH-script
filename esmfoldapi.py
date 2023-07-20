@@ -11,16 +11,16 @@ while True:
         # timestamp = datetime.now().strftime("%H-%M-%S")
         folder_date = datetime.now().strftime("%m-%d-%Y")
         folder_name = f"{protein_name}_{folder_date}"
-        os.makedirs(folder_name, exist_ok=True)
+        os.makedirs(f'proteins_esm/{folder_name}', exist_ok=True)
 
         # separation
-        position = input("Enter position and variant like this - '1914H,200R and so on' (or 'n' for new protein): ")
-        if position == 'n':
+        position_input = input("Enter position and variant like this - '254D,1914H and so on' (or 'n' for new protein): ")
+        if position_input == 'n':
             break
         aa_numbers = []
         aa_change = []
 
-        for item in position.split(','):
+        for item in position_input.split(','):
             aa_numbers.append(int(''.join(filter(str.isdigit, item))))
             aa_change.append(''.join(filter(str.isalpha, item)))
 
@@ -29,7 +29,8 @@ while True:
             # cycle
             position = int(aa_numbers[i])
             substitution = str(aa_change[i])
-
+            with open(f"RMSD/{protein_name}_rmsd.txt", "a") as f:
+                f.write(f"{position}_{substitution}:\n")
             start = max(0, position - 200)
             end = min(len(amino_acids), position + 199)
             subsequence = amino_acids[start:end]
@@ -55,17 +56,17 @@ while True:
 
             # mut
             mutated_subsequence = subsequence[:new_position-1] + substitution + subsequence[new_position:]
-            command = f'curl -X POST --data "{mutated_subsequence}" https://api.esmatlas.com/foldSequence/v1/pdb/ > {folder_name}/{protein_name}_{position}_{substitution}_mutated.pdb'
+            command = f'curl -X POST --data "{mutated_subsequence}" https://api.esmatlas.com/foldSequence/v1/pdb/ > proteins_esm/{folder_name}/{protein_name}_{position}_{substitution}_mutated.pdb'
             os.system(command)
 
             # wild type
-            command = f'curl -X POST --data "{subsequence}" https://api.esmatlas.com/foldSequence/v1/pdb/ > {folder_name}/{protein_name}_{position}.pdb'
+            command = f'curl -X POST --data "{subsequence}" https://api.esmatlas.com/foldSequence/v1/pdb/ > proteins_esm/{folder_name}/{protein_name}_{position}.pdb'
             os.system(command)
 
             # RMSD part
             # Select what residues numbers you wish to align
             # and put them in a list
-            rmsd_start_cut = [1, 50, 100, 150, 200, 250, 300]
+            rmsd_start_cut = [0, 50, 100, 150, 200, 250, 300]
             rmsd_end_cut = [100, 150, 200, 250, 300, 350, 400]
             for j in range(len(rmsd_start_cut)):
                 start_id = rmsd_start_cut[j]
@@ -76,8 +77,8 @@ while True:
                 pdb_parser = Bio.PDB.PDBParser(QUIET=True)
 
                 # Get the structures
-                ref_structure = pdb_parser.get_structure("reference", f"{folder_name}/{protein_name}_{position}.pdb")
-                sample_structure = pdb_parser.get_structure("sample", f"{folder_name}/{protein_name}_{position}_{substitution}_mutated.pdb")
+                ref_structure = pdb_parser.get_structure("reference", f"proteins_esm/{folder_name}/{protein_name}_{position}.pdb")
+                sample_structure = pdb_parser.get_structure("sample", f"proteins_esm/{folder_name}/{protein_name}_{position}_{substitution}_mutated.pdb")
 
                 # Use the first model in the pdb-files for alignment
                 # Change the number 0 if you want to align to another structure
@@ -110,8 +111,19 @@ while True:
                 super_imposer.apply(sample_model.get_atoms())
 
                 # Print RMSD:
-                print(super_imposer.rms)
+                rmsd = super_imposer.rms
 
+                def save_rmsd_to_file(rmsd_s, protein_name_s, position_s, start_id_s, end_id_s):
+                    start_position = position_s + start_id_s - 200
+                    end_position = position_s + end_id_s - 200
+                    with open(f"RMSD/{protein_name_s}_rmsd_log.txt", "a") as f:
+                        f.write(f"RMSD of {protein_name} at position {start_position}-{end_position} {rmsd_s}\n")
+
+
+                save_rmsd_to_file(rmsd, protein_name, position, start_id, end_id)
+        #
+        with open(f"RMSD/{protein_name}_rmsd_log.txt", "a") as f:
+            f.write(f"\n\n")
             # Save the aligned version of 1UBQ.pdb
             # io = Bio.PDB.PDBIO()
             # io.set_structure(sample_structure)
