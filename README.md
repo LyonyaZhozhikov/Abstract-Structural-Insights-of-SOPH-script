@@ -31,3 +31,16 @@ command to calculate RMSD in pymol:
 Not sensitive to positions +- 200 aa from N and C terminal of the protein sequences.
 
 ESM fold have limit of max 400 aa long sequences.
+
+---
+<div id="header" align="right">
+
+#### Научная статья, использовавшая данный стиль, издана в:
+
+##### 
+<a href="https://mccmb.belozersky.msu.ru/2023/thesis/MCCMB.utf8.html"><img src="https://shields.io/badge/MCCMB23-Conference-green?logo=#E9711C&MCCMB23=Conference" alt="ARTICLE"/></a>
+
+##### 
+<a href="https://mccmb.belozersky.msu.ru/2023/thesis/abstracts/152.pdf"><img src="https://shields.io/badge/Abstract-VersionOfRecord-green?logo=#E9711C&Full%20Access=VersionOfRecord" alt="VersionOfRecord"/></a>
+
+</div>
